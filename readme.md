@@ -3,4 +3,4 @@
 ### No. of Awesome Bronze Bags : 5
 ### Amount Spent by Napoleon Batz: 556.32
 
-![Mobile Challenge](https://.jpg "mobile challenge")
+![Mobile Challenge](https://github.com/credo92/ShopifyMobileChallenge/blob/master/Shopify_Mobile_Challenge.png "mobile challenge")
